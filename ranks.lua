@@ -51,7 +51,7 @@ local prefixes = {
 	}, -- 1000k - 1800k
 	{
 		name="Mese",
-		icon="xp_mese_mesesword.png",
+		icon="xp_rank_mesesword.png",
 		color={r=238, g=252, b=85},
 		base_xp=2000000,
 		xp_modifier=300000
